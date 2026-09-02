@@ -1,0 +1,4 @@
+Los modificadores de acceso en Java son palabras clave 
+fundamentales que determinan desde qué partes del código
+se puede ver o utilizar una clase, método, variable o constructor.
+Su función principal es implementar el concepto de encapsulamiento, permitiendo proteger la integridad de los datos al restringir el acceso directo no autorizado. En Java existen cuatro niveles de acceso, ordenados desde el más permisivo hasta el más restrictivo: public, protected, el acceso por defecto (o package-private), y private.
