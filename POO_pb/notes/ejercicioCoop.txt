@@ -1,0 +1,30 @@
+Ejercicio en clase
+
+
+La cooperativa estudiantil Ahorrando Juntos contrato un practicante para programar sus cuentas de ahorro, el sistema funciono durante dos semanas, después aparecieron
+unos problemas.
+
+Tres cuentas quedaron con saldo negativo, Cinco cuentas  registraron registros de deposito de menos  5 mil pesos.
+
+Un estudiante logro poner su saldo en un millón de pesos sin haber consignado nada.
+
+Usted deberá crear un código que cumpla con las funcionalidades básicas y corrija estos errores.
+Debe de haber una clase CuentaAhorro, 
+una variable titular,
+ una variable saldo inicial, 
+una variable monto,
+ y una variable saldo y deben haber acciones de consignar y retirar.	
+
+Entregar. 
+
+1 La clase CuentaAhorro ningún atributo debe ser accesible por fuera de la clase
+
+2 el saldo nunca puede quedar negativo
+
+3 los montos de consignación y retiro deben ser mayores que 0
+
+4 En el retiro informe si la acción se realizo o fue rechazada 
+
+5 Que exista un método para consultar el saldo sin poderlo modificar.
+
+
