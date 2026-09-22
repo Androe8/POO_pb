@@ -10,5 +10,10 @@ public class Main {
 
         System.out.println(e1.Saludar());
         System.out.println(e1.Estudiar());
+
+        //objeto docente
+        Docente d1 =  new Docente("Lius Fernando", "POO");
+        System.out.println(d1.InfoDocente());
+
     }    
-}ñ
+}

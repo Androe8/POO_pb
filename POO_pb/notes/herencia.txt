@@ -6,3 +6,10 @@ SuperClase (Padre).
  
  Nota: No se puede acceder a un metodo desde la clase Padre que exista en la clase hija, pero si al reves.
     Solo los hijos pueden heredar del padre.
+
+    La herencia no rompe el encapsulamiento, por eso son necesarios los Get cuando
+    un atributo es privado.
+
+    Java no puede heredar dos clases al mismo tiempo. Solo una a la vez.
+
+    

@@ -2,6 +2,7 @@ package POO_pb.class_code.Herencia;
 
 public class Persona {
     private String nombre;
+    
 
     //Constructor
     public Persona(String nombre){
