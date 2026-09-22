@@ -1,0 +1,8 @@
+La herencia en POO es un mecanismo que le 
+permite auna sublcase (hija) heredar metodos o atributos de una 
+SuperClase (Padre).
+ 
+ 
+ 
+ Nota: No se puede acceder a un metodo desde la clase Padre que exista en la clase hija, pero si al reves.
+    Solo los hijos pueden heredar del padre.
