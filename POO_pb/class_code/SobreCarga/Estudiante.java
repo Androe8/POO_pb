@@ -1,27 +1,27 @@
-package POO_pb.class_code.SobreCarga;
+// package POO_pb.class_code.SobreCarga;
 
-public class Estudiante extends Persona {
-    //atributo
-    public String jornada;
+// public class Estudiante extends Persona {
+//     //atributo
+//     public String jornada;
    
-    /***sobreescribir***/
-    @Override 
-    public String rol(){
-        return "Estudiante";
-    }
+//     /***sobreescribir***/
+//     @Override 
+//     public String rol(){
+//         return "Estudiante";
+//     }
 
-    public String tipoJornada(String jornada){
-        return "Tipo : "+jornada;
-    }
+//     public String tipoJornada(String jornada){
+//         return "Tipo : "+jornada;
+//     }
 
 
-    //---Sobrecarga
-    public  String saludar(){
-        return "hola";
-    }
+//     //---Sobrecarga
+//     public  String saludar(){
+//         return "hola";
+//     }
 
-    public String saludar(String nombre){
-        return "Hola " +nombre;
-    }
+//     public String saludar(String nombre){
+//         return "Hola " +nombre;
+//     }
 
-}
+// }
