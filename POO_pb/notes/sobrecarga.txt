@@ -1,0 +1,18 @@
+Palabra reservada @Override para sobreeescribir un metodo de una clase con el mismo 
+nombre.
+
+Sobrecarga significa cambiar un metodo con el mismo nombre y modificar su estructura 
+segun las necesidades.
+
+En java Existe una clase universal llamada Object, todas las clases heredan de
+Object y esta trae metodos pre-definidos que todas las clases pueden heredar
+como lo son
+
+-toString() Devuelve una representacion del objeto en texto, con su dir de memoria.
+-equals(Object obj) Compara si un objeto es igual a otro.
+-getClass() devuelve la clase en tiempo de ejecuccion
+-hasCode()Genera un identificador numérico único para el objeto. Es obligatorio sobrescribirlo si sobrescribes equals() para que el objeto funcione correctamente en colecciones como HashMap o HashSet.
+-clone() crea y devuelve una copia exacta del objeto
+-wait(), notify(), notifyAll(): Métodos nativos utilizados para coordinar la ejecución entre múltiples hilos de procesamiento (multithreading).
+
+
