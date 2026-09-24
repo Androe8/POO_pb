@@ -10,7 +10,10 @@ public class Estudiante extends Persona {
         return "Estudiante";
     }
 
-    
+    public String tipoJornada(String jornada){
+        return "Tipo : "+jornada;
+    }
+
 
     //---Sobrecarga
     public  String saludar(){
